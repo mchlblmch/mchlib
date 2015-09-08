@@ -1,1 +1,2 @@
 https://github.com/mchlblmch/mchlib
+git://github.com/mchlblmch/mchlib
